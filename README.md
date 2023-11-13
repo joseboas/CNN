@@ -1,1 +1,1 @@
-# CNN
+# Redes Neurais Convolucionais
